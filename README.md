@@ -14,5 +14,9 @@ How to transfer:
 		Weight: 10
 	Save file, eject SD, put SD in flipper (if PC) and reboot.
 	If you dont know how to reboot flipper zero, Hold Return + Back;
+
+ Tested firmwares: 
+	Roguemaster:	0.93.9
+  	Unleashed:	065
 	
 	https://github.com/fernandofei/H2HC_flipper_animation
