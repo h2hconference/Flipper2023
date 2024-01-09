@@ -1,7 +1,8 @@
 Plug your SD Cart in your PC or you can use qFlipper to transfer the files;
 Copy OR Drag/Drop "H2HC_128x64" folder to SDCARD/dolphin directory
 Edit manifest.txt located in SDCARD/dolphin (example provided)
-	Filetype: Flipper Animation Manifest
+
+ 	Filetype: Flipper Animation Manifest
 	Version: 1
 
 	Name: H2HC_128x64
